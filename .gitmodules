@@ -1,0 +1,3 @@
+[submodule "Octo/vendor/spdlog"]
+	path = Octo/vendor/spdlog
+	url = https://github.com/gabime/spdlog
